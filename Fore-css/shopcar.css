@@ -1,0 +1,86 @@
+﻿body {
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.shop-infor
+{
+    width: 100%; 
+    height: 30px; 
+    border: 1px solid #000; 
+    background-color: #e7e7e7; 
+    border-radius: 5px; 
+}
+
+.shop-infor ul
+{
+    list-style: none;
+}
+
+.shop-infor li
+{
+    list-style: none;
+    float: left;
+    line-height: 30px;
+
+}
+
+.shop-list
+{
+    width: 100%; 
+    height: 80px; 
+    border: 1px solid #000; 
+    border-radius: 5px; 
+    margin-top: 20px;
+}
+
+.shop-list li
+{
+    float: left;
+    height: auto;
+    line-height: 80px;
+}
+
+.shop-CheckBox
+{
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.shop-cost
+{
+    margin-top: 5px;
+    width:100%;  
+    height:40px;  
+    border:1px solid #000;  
+    background-color:#e7e7e7;  
+    border-radius:5px;
+}
+
+.shop-cost li
+{
+    float: left;
+    height: auto;
+    line-height: 40px;
+}
+
+.order-delete
+{
+    float:left; 
+    width:10%; 
+    height:100%; 
+    margin-top:29px;
+    text-align:center; 
+    /*background-color:Teal;*/
+}
+
+.p1{
+    font-family:@微软雅黑;
+}
+.p2{
+    font-family:@微软雅黑;
+    font-weight:bold;
+}

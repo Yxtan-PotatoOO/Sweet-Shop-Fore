@@ -1,0 +1,74 @@
+﻿body {
+}
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.left-daohang
+{
+    float:left;
+    width: 12%; 
+    height: 540px; 
+    margin-top: 20px;
+    /*background-color: #f394a1; */
+    /*border: 1px solid #000;*/
+}
+
+.left-daohang p
+{
+    line-height: 35px;
+    text-align: center;   
+}
+
+.left-daohang li
+{
+    text-align: center;
+    /*background-color: Lime;*/
+    /*border-bottom: 1px solid #000;*/
+}
+.left-daohang a
+{
+    width: 100px;
+    line-height: 35px;
+    text-align: center; 
+}
+.content 
+{
+    border-top:1px solid #000000;
+    width: 80%;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-color: #f2f2f2;*/
+}
+
+.infor-title
+{
+    width: 128px;
+    height: 40px;
+    /*border: 2px solid #000000;*/
+    margin: 20px auto;
+    font-size: 16px;
+    font-family: @微软雅黑;
+}
+
+.box
+{
+    padding-top: 10px;
+    width: 100%;
+    height: 540px;
+    margin: 0 auto;
+    /*background-color: White;*/
+    /*border: 1px dotted #000000;*/
+}
+
+.information
+{
+    width: 400px;
+    margin: 20px auto;
+    font-size: 16px;
+    font-family:@Adobe 宋体 Std L;
+    /*background-color: Lime;*/
+}

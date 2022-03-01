@@ -1,0 +1,54 @@
+﻿body {
+}
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.left-daohang
+{
+    float:left;
+    width: 12%; 
+    height: 540px; 
+    margin-top: 20px;
+    /*background-color: #f394a1; */
+    /*border: 1px solid #000;*/
+}
+
+.left-daohang p
+{
+    line-height: 35px;
+    text-align: center;   
+}
+
+.left-daohang li
+{
+    text-align: center;
+    /*background-color: Lime;*/
+    /*border-bottom: 1px solid #000;*/
+}
+.left-daohang a
+{
+    width: 100px;
+    line-height: 35px;
+    text-align: center; 
+}
+
+.left-daohang a:hover
+{
+    color: Orange;
+}
+
+.layui-table a:hover
+{    
+    text-decoration: underline;  
+}
+
+.p1{
+    font-family:@微软雅黑;
+}
+.p2{
+    font-family:@微软雅黑;
+    font-weight:bold;
+}

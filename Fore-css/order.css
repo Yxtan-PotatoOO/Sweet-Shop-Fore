@@ -1,0 +1,131 @@
+﻿body {
+}
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.left-daohang
+{
+    float:left;
+    width: 12%; 
+    height: 540px; 
+    margin-top: 20px;
+    /*background-color: #f394a1; */
+    /*border: 1px solid #000;*/
+}
+
+.left-daohang p
+{
+    line-height: 35px;
+    text-align: center;   
+}
+
+.left-daohang li
+{
+    text-align: center;
+    /*background-color: Lime;*/
+    /*border-bottom: 1px solid #000;*/
+}
+.left-daohang a
+{
+    width: 100px;
+    line-height: 35px;
+    text-align: center; 
+}
+
+.check
+{
+    float:left; 
+    width:50px; 
+    height:auto; 
+    margin-top:35px; 
+    margin-left:30px; 
+    text-align:center; 
+    /*background-color:Gray;*/
+}
+
+.order-date
+{
+    float:left;
+    width:120px; 
+    height:100%; 
+    text-align:center; 
+    /*background-color:Aqua;*/
+}
+
+.order-photo-box
+{
+    float:left; 
+    width:250px; 
+    height:100%; 
+    /*background-color:Lime;*/
+}
+
+.order-photo
+{
+    float:left; 
+    width:70px; 
+    height:70px; 
+    margin-top:5px; 
+    margin-left:10px;
+    /*background-color:Yellow;*/
+}
+
+.order-explain
+{
+    float:left; 
+    width:140px; 
+    height:25px; 
+    margin-top:25px; 
+    margin-left:15px; 
+    overflow:hidden; 
+    /*background-color:Orange;*/
+}
+
+.order-price
+{
+    float:left; 
+    width:120px; 
+    height:100%; 
+    text-align:center; 
+    /*background-color:Aqua;*/
+}
+
+.order-num
+{
+    float:left; 
+    width:100px; 
+    height:100%; 
+    text-align:center; 
+    /*background-color:Fuchsia;*/
+}
+
+.order-cost
+{
+    float:left; 
+    width:120px; 
+    height:100%; 
+    text-align:center; 
+    margin-right:30px;
+    /*background-color:Navy;*/
+}
+
+.order-delete
+{
+    float:left; 
+    width:40px; 
+    height:100%; 
+    margin-top:29px;
+    text-align:center; 
+    /*background-color:Teal;*/
+}
+
+.p1{
+    font-family:@微软雅黑;
+}
+.p2{
+    font-family:@微软雅黑;
+    font-weight:bold;
+}

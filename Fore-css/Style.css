@@ -1,0 +1,21 @@
+﻿body {
+}
+
+.all-table
+{
+    height:auto;
+    background-color:#ffffff; 
+    border:1px solid #333333;
+}
+
+.table-TableRow
+{
+    border:0.5px solid #333333;
+} 
+
+.table-TableCell 
+{
+    width:200px; 
+    height:28px;
+    padding-left:5px;
+}

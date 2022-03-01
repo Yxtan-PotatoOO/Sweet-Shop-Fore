@@ -1,0 +1,41 @@
+﻿body {
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.p1{
+    font-family:@微软雅黑;
+}
+.p2{
+    font-family:@微软雅黑;
+    font-weight:bold;
+}
+
+.tijiao_btn
+{
+    width:100px; 
+    height:45px; 
+    background-color:#EA5753; 
+    cursor:hand;
+    border: 0; 
+    outline:none; 
+    color:White; 
+    font-weight:bold;
+    float:left;
+}
+
+.confirm_btn
+{
+    width:60px; 
+    height:35px; 
+    background-color:#EA5753; 
+    cursor:hand;
+    border: 0; 
+    outline:none; 
+    color:White; 
+    font-weight:bold;
+    float:left;
+}
